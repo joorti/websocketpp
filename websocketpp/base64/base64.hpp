@@ -40,6 +40,8 @@
 #include <string>
 #include <sstream>
 
+// Test Comment
+
 namespace websocketpp {
 
 static std::string const base64_chars =
